@@ -1,0 +1,2 @@
+id,name,latitude,longitude,start_date,end_date,source,resolution,buffer_distance,image_size,image_path
+12095,acrc19,-9.978964,-67.673539,2010-01-01,2020-03-31,amazon_geoglyphs,10,0.01,"(220, 220, 3)",./ground_truth_images/id_12095_2010-01-01-2020-03-31.png
