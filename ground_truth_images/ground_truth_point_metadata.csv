@@ -1,2 +1,6 @@
 id,name,latitude,longitude,start_date,end_date,source,resolution,buffer_distance,image_size,image_path
-12095,acrc19,-9.978964,-67.673539,2010-01-01,2020-03-31,amazon_geoglyphs,10,0.01,"(220, 220, 3)",./ground_truth_images/id_12095_2010-01-01-2020-03-31.png
+0,nefer,29.89502799992025,31.20246145015321,2010-01-01,2020-03-31,amazon_geoglyphs,10,0.05,"(1093, 983, 3)",./ground_truth_images/id_0_2010-01-01-2020-03-31.png
+1,niuse,29.89567099812161,31.20355533136928,2010-01-01,2020-03-31,amazon_geoglyphs,10,0.05,"(1093, 983, 3)",./ground_truth_images/id_1_2010-01-01-2020-03-31.png
+2,niuso,29.90407154553836,31.19381076147237,2010-01-01,2020-03-31,amazon_geoglyphs,10,0.05,"(1093, 983, 3)",./ground_truth_images/id_2_2010-01-01-2020-03-31.png
+3,sahur,29.8976473884554,31.20338683170095,2010-01-01,2020-03-31,amazon_geoglyphs,10,0.05,"(1093, 983, 3)",./ground_truth_images/id_3_2010-01-01-2020-03-31.png
+4,khafr,29.975981,31.130754,2010-01-01,2020-03-31,amazon_geoglyphs,10,0.05,"(1093, 983, 3)",./ground_truth_images/id_4_2010-01-01-2020-03-31.png
